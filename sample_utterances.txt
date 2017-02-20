@@ -3,7 +3,7 @@ ReadIntent read {messagenumber} messages
 ReadIntent read the last {messagenumber} messages
 
 PostIntent post {Hello|message}
-PostIntent post {What are you guys up to|message\}
+PostIntent post {What are you guys up to|message}
 PostIntent post {This is great. Completely hands free|message}
 PostIntent post {I'm sitting on my couch telling my echo to post this because I'm lazy|message}
 PostIntent post {I'm pretty tired|message}
