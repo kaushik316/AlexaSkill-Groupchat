@@ -1,0 +1,11 @@
+{ "intents": 
+ [
+    { "intent": "ReadIntent",
+      "slots":[{"name":"messagenumber",
+               "type":"AMAZON.NUMBER"}]},
+   
+    {"intent": "PostIntent",
+     "slots":[{"name":"message",
+               "type":"AMAZON.LITERAL"}]} 
+ ]
+}
