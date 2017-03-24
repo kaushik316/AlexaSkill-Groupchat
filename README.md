@@ -10,7 +10,7 @@ Your api_keys file should look something like this:
 api_key = "123abc"
 group_id = 12345678
 ```
-You'll receive this information when you create an account and register your bot on the GroupMe developer [portal] (https://dev.groupme.com/). 
+You'll receive this information when you create an account and register your bot on the GroupMe developer [portal](https://dev.groupme.com/). 
 
 The schema.json file includes the configuration setup for the skill, which can be copied and pasted into the model setup page in the Alexa developer portal. Deployment of the skill can be performed with [zappa](https://github.com/Miserlou/Zappa)
 
